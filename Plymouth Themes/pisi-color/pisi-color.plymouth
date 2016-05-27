@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=pisi-color
+Description=A Plymouth theme for Pisi Linux. Like OS X Yosemite.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pisi-color
+ScriptFile=/usr/share/plymouth/themes/pisi-color/pisi-color.script
